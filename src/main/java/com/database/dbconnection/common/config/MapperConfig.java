@@ -1,4 +1,4 @@
-package com.database.dbconnection.config;
+package com.database.dbconnection.common.config;
 
 import org.modelmapper.ModelMapper;
 import org.modelmapper.convention.MatchingStrategies;
